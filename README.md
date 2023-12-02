@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Home Lab Setup](https://github.com/jaydenxjayden/VM-Home-Lab-Setup) 
-- [Network Mapping](https://github.com/projecturl)
+- [Network Mapping](https://github.com/jaydenxjayden/Network-Mapping)
 - [Scripting](https://github.com/projecturl)
 
 <h2>📺 Certifications:</h2>
