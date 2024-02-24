@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Home Lab Setup](https://github.com/jaydenxjayden/VM-Home-Lab-Setup)
-- [Windows Bootable USB Drive](https://github.com/projecturl)
+- [Windows Bootable USB Drive]()
 - [Network Mapping](https://github.com/jaydenxjayden/Network-Mapping)
 - [Scripting](https://github.com/projecturl)
 
