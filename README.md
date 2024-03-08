@@ -14,8 +14,7 @@
 
 <h2>💻 Practical Challenges:</h2>
 
-- [CTF Writeups](https://github.com/projecturl)
-- [Network Research - Scenarios](https://github.com/projecturl)
+- [HTB Writeups](https://github.com/projecturl)
 
 <h2>📚 Documentations:</h2>
 
