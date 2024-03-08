@@ -5,7 +5,7 @@
 - [Home Lab Setup](https://github.com/jaydenxjayden/VM-Home-Lab-Setup)
 - [Windows Bootable USB Drive](https://github.com/jaydenxjayden/Bootable-USB-Drive.md)
 - [Network Mapping](https://github.com/jaydenxjayden/Network-Mapping)
-- [Vulnerability Scanner](https://github.com/projecturl)
+- [Vulnerability Scanner](https://github.com/jaydenxjayden/Vulnerability-Scanner)
 
 <h2>📑 Certifications:</h2>
 
