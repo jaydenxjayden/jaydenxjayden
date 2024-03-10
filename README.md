@@ -16,9 +16,9 @@
 
 - [HTB Writeups](https://github.com/jaydenxjayden/HTB-writeup)
 
-<h2>📚 Documentations:</h2>
+<h2>📚 Blog:</h2>
 
-- [Blog](https://github.com/jaydenxjayden/Blog)
+- [Cybersecurity news](https://github.com/jaydenxjayden/Blog)
 
 
 
