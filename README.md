@@ -9,16 +9,16 @@
 
 <h2>📑 Certifications:</h2>
 
-- [Google Cybersecurity Professional Certificate](https://github.com/projecturl)
-- [CompTIA Security+ Study Notes](https://github.com/projecturl)
+- [Google Cybersecurity Professional Certificate](https://github.com/jaydenxjayden/Google-Cybersecurity-Cert)
+- [CompTIA Security+ Study Notes](https://github.com/jaydenxjayden/CompTIA-Sec-)
 
 <h2>💻 Practical Challenges:</h2>
 
-- [HTB Writeups](https://github.com/projecturl)
+- [HTB Writeups](https://github.com/jaydenxjayden/HTB-writeup)
 
 <h2>📚 Documentations:</h2>
 
-- [Blog](https://github.com/projecturl)
+- [Blog](https://github.com/jaydenxjayden/Blog)
 
 
 
