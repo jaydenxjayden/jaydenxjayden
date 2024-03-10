@@ -18,7 +18,7 @@
 
 <h2>📚 Blog:</h2>
 
-- [Cybersecurity news](https://github.com/jaydenxjayden/Blog)
+- [Cybersecurity news](https://medium.com/@jaydenxjayden)
 
 
 
