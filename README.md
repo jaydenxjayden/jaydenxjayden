@@ -10,7 +10,7 @@
 <h2>📑 Certifications:</h2>
 
 - [Google Cybersecurity Professional Certificate](https://github.com/jaydenxjayden/Google-Cybersecurity-Cert)
-- [CompTIA Security+ Study Notes](https://github.com/jaydenxjayden/CompTIA-Sec-)
+- [CompTIA Security+ Certificate](https://github.com/jaydenxjayden/CompTIA-Sec-)
 
 <h2>💻 Practical Challenges:</h2>
 
