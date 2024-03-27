@@ -14,7 +14,7 @@
 
 <h2>💻 Practical Challenges:</h2>
 
-- [HTB Writeups](https://github.com/jaydenxjayden/HTB-writeup)
+- [HTB Writeups](https://medium.com/@jaydenxjayden/list/htb-writeups-79d1ed6eaa5e)
 
 <h2>📚 Blog:</h2>
 
