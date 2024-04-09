@@ -4,12 +4,9 @@
 
 - [Home Lab Setup](https://github.com/jaydenxjayden/VM-Home-Lab-Setup)
 - [Windows Bootable USB Drive](https://github.com/jaydenxjayden/Bootable-USB-Drive.md)
-- [Network Mapping](https://github.com/jaydenxjayden/Network-Mapping)
 - [Vulnerability Scanner](https://github.com/jaydenxjayden/Vulnerability-Scanner)
-- [Firewall setup - pfsense](https://github.com/jaydenxjayden/tbc)
-- [Intrusion Detection System - snort](https://github.com/jaydenxjayden/tbc)
-- [Domain Controller - Active Directory (Windows Server 2016)](https://github.com/jaydenxjayden/tbc)
-- [Security Information and Events Management - ELK](https://github.com/jaydenxjayden/tbc)
+- [Setting up Security Operations Centre](https://github.com/jaydenxjayden/tbc)
+
 
 <h2>📑 Certifications:</h2>
 
