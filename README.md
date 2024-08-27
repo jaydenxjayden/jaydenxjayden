@@ -12,10 +12,11 @@
 
 - [Google Cybersecurity Professional Certificate](https://github.com/jaydenxjayden/Google-Cybersecurity-Cert)
 - [CompTIA Security+ Certificate](https://github.com/jaydenxjayden/CompTIA-Sec-)
+- [Centre for Cybersecurity Certificate]()
 
 <h2>💻 Practical Challenges:</h2>
 
-- [HTB Writeups](https://medium.com/@jaydenxjayden/list/htb-writeups-79d1ed6eaa5e)
+- [HTB Writeups](https://github.com/jaydenxjayden/HTB-writeup/tree/main)
 
 <h2>📚 Blog:</h2>
 
